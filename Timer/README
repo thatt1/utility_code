@@ -1,0 +1,2 @@
+Timer is a simple struct useful in evaluating the runtime of a program at a glance.
+A timer placed inside of a function call will destruct at the end of function scope and output to the console the runtime.
