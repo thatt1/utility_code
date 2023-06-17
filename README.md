@@ -1,2 +1,2 @@
-# utility_code
+# utility
 Personal collection of generally useful programs
